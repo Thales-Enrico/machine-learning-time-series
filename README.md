@@ -132,5 +132,3 @@ Este projeto foi desenvolvido como parte dos meus estudos em Machine Learning e 
 **Thales Enrico**
 
 Graduando em Engenharia da Computação e profissional da área de Automação Industrial, com interesse em Inteligência Artificial, Ciência de Dados, Desenvolvimento de Software e Sistemas Embarcados.
-
-Acredito que compreender os fundamentos matemáticos e estatísticos por trás dos algoritmos é essencial para desenvolver soluções robustas e aplicáveis a problemas reais da engenharia.
