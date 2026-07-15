@@ -31,36 +31,6 @@ Neste projeto são desenvolvidos estudos práticos utilizando Python para compre
 * Reversão da Diferenciação
 * Modelagem para previsão
 
----
-
-## 📂 Estrutura do projeto
-
-```text
-machine-learning-time-series/
-│
-├── datasets/
-│
-├── notebooks/
-│   ├── 01_introducao_series_temporais.ipynb
-│   ├── 02_autocorrelacao.ipynb
-│   ├── 03_covariancia.ipynb
-│   ├── 04_media_movel.ipynb
-│   ├── 05_decomposicao.ipynb
-│   ├── 06_estacionariedade.ipynb
-│   ├── 07_transformacao_diferenciacao.ipynb
-│   ├── 08_reversao_diferenciacao.ipynb
-│   ├── 09_random_walk.ipynb
-│   └── 10_modelagem.ipynb
-│
-├── images/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🛠 Tecnologias utilizadas
 
 * Python
