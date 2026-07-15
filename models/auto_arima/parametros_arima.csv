@@ -1,0 +1,2 @@
+maxiter,method,order,out_of_sample_size,scoring,scoring_args,seasonal_order,start_params,suppress_warnings,trend,with_intercept
+50,lbfgs,"(2, 0, 2)",0,mse,{},"(0, 0, 0, 12)",,True,,True
